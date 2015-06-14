@@ -12,7 +12,7 @@
 	<div class="repos">
 		{{#each repos}}
 		{{#unless fork}}
-		<a class="repo" href="{{#if homepage}}{{homepage}}{{else}}{{html_url}}{{/if}}" target="_blank">
+		<a class="repo" href="{{#if homepage}}//{{homepage}}{{else}}{{html_url}}{{/if}}" target="_blank">
 			<h2>{{name}}</h2>
 			{{#if description}}
 			<p>{{description}}</p>
