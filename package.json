@@ -13,7 +13,7 @@
     "hbs": "~2.9.0",
     "morgan": "~1.5.1",
     "node-compass": "0.2.3",
-    "octonode": "^0.6.18",
+    "octonode": "^0.9.5",
     "serve-favicon": "~2.2.0"
   }
 }
